@@ -1,0 +1,17 @@
+https://github.com/mpc001/auto_avsr
+
+I need 2 models from two different repos
+
+I need detailed documentation on everything each steps of the training and dependencies installation,
+cmd using for preprocessing, training, testing, val, visualisation, input & output directory cmd line,
+input & output results time space complexity comparison
+also need included which part of code you made changes on
+
+let me know once you found another repo before you start training on it
+https://github.com/facebookresearch/av_hubert
+https://github.com/smeetrs/deep_avsr/
+https://github.com/ms-dot-k/AVSR
+
+do you need a virtual gpu?
+on 26/3 zip the model and eveything to me upload to google drive
+
